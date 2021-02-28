@@ -5,8 +5,8 @@ function GameOver(props) {
     <div
       id='GameBoard'
       style={{
-        width: props.width * 1.05,
-        height: props.height * 1.05,
+        width: props.width,
+        height: props.height,
         borderWidth: props.width / 50,
       }}>
       <div id='GameOver' style={{ fontSize: props.width / 15 }}>

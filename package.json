@@ -1,5 +1,5 @@
 {
-  "name": "react-simple-snake",
+  "name": "react-simple-snake-forked",
   "description": "A simple snake game created with the React JavaScript library",
   "version": "0.2.3",
   "main": "lib/snake.js",
