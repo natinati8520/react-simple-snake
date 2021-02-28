@@ -360,8 +360,6 @@ class SnakeGame extends React.Component {
     if (this.state.isGameOver) {
       return (
         <GameOver
-          width={this.state.width * 1.05}
-          height={this.state.height * 1.05}
           highScore={this.state.highScore}
           newHighScore={this.state.newHighScore}
           score={this.state.score}
